@@ -1,0 +1,189 @@
+{
+  "stations": [
+    {
+      "id": "SBC",
+      "name": "Bengaluru City (SBC)",
+      "name_kn": "ಬೆಂಗಳೂರು ನಗರ",
+      "trains": [
+        {
+          "train_number": "12627",
+          "train_name": "Karnataka Express",
+          "train_name_kn": "ಕರ್ನಾಟಕ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "06:00",
+          "platform": 1,
+          "destination": "New Delhi",
+          "destination_kn": "ನವದೆಹಲಿ",
+          "coaches": ["Engine", "H1", "A1", "B1", "B2", "S1", "S2", "S3", "S4", "GEN", "GEN", "Ladies", "Pantry"]
+        },
+        {
+          "train_number": "16022",
+          "train_name": "Kaveri Express",
+          "train_name_kn": "ಕಾವೇರಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "07:30",
+          "platform": 2,
+          "destination": "Chennai Central",
+          "destination_kn": "ಚೆನ್ನೈ ಸೆಂಟ್ರಲ್",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "S3", "B1", "B2", "A1", "Pantry"]
+        },
+        {
+          "train_number": "17301",
+          "train_name": "Mysuru Express",
+          "train_name_kn": "ಮೈಸೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "09:15",
+          "platform": 3,
+          "destination": "Mysuru",
+          "destination_kn": "ಮೈಸೂರು",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "B1", "Pantry"]
+        }
+      ]
+    },
+    {
+      "id": "MYS",
+      "name": "Mysuru (MYS)",
+      "name_kn": "ಮೈಸೂರು",
+      "trains": [
+        {
+          "train_number": "16215",
+          "train_name": "Chamundi Express",
+          "train_name_kn": "ಚಾಮುಂಡಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "08:00",
+          "platform": 1,
+          "destination": "Bengaluru City",
+          "destination_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "S3", "B1", "A1", "Pantry"]
+        },
+        {
+          "train_number": "56281",
+          "train_name": "Mysuru Passenger",
+          "train_name_kn": "ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "arrival_time": "10:20",
+          "platform": 2,
+          "destination": "Hassan",
+          "destination_kn": "ಹಾಸನ",
+          "coaches": ["Engine", "GEN", "GEN", "GEN", "Ladies", "GEN"]
+        },
+        {
+          "train_number": "17302",
+          "train_name": "Bengaluru Express",
+          "train_name_kn": "ಬೆಂಗಳೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "14:45",
+          "platform": 1,
+          "destination": "Bengaluru City",
+          "destination_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "coaches": ["Engine", "GEN", "Ladies", "S1", "S2", "B1", "Pantry"]
+        }
+      ]
+    },
+    {
+      "id": "UBL",
+      "name": "Hubballi (UBL)",
+      "name_kn": "ಹುಬ್ಬಳ್ಳಿ",
+      "trains": [
+        {
+          "train_number": "11035",
+          "train_name": "Sharavathi Express",
+          "train_name_kn": "ಶರಾವತಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "07:10",
+          "platform": 2,
+          "destination": "Mumbai CST",
+          "destination_kn": "ಮುಂಬೈ",
+          "coaches": ["Engine", "H1", "A1", "B1", "B2", "S1", "S2", "S3", "GEN", "GEN", "Ladies", "Pantry"]
+        },
+        {
+          "train_number": "16590",
+          "train_name": "Rani Chennamma Express",
+          "train_name_kn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "11:00",
+          "platform": 3,
+          "destination": "Bengaluru City",
+          "destination_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "S3", "B1", "B2", "A1", "Pantry"]
+        },
+        {
+          "train_number": "17307",
+          "train_name": "Basava Express",
+          "train_name_kn": "ಬಸವ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "15:30",
+          "platform": 1,
+          "destination": "Hyderabad",
+          "destination_kn": "ಹೈದರಾಬಾದ್",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "B1", "A1", "Pantry"]
+        }
+      ]
+    },
+    {
+      "id": "GDG",
+      "name": "Gadag (GDG)",
+      "name_kn": "ಗದಗ",
+      "trains": [
+        {
+          "train_number": "56904",
+          "train_name": "Gadag Passenger",
+          "train_name_kn": "ಗದಗ ಪ್ಯಾಸೆಂಜರ್",
+          "arrival_time": "09:00",
+          "platform": 1,
+          "destination": "Hubballi",
+          "destination_kn": "ಹುಬ್ಬಳ್ಳಿ",
+          "coaches": ["Engine", "GEN", "GEN", "GEN", "Ladies"]
+        },
+        {
+          "train_number": "17419",
+          "train_name": "Tirupati Express",
+          "train_name_kn": "ತಿರುಪತಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "12:15",
+          "platform": 2,
+          "destination": "Tirupati",
+          "destination_kn": "ತಿರುಪತಿ",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "B1", "Pantry"]
+        },
+        {
+          "train_number": "56905",
+          "train_name": "Bengaluru Passenger",
+          "train_name_kn": "ಬೆಂಗಳೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "arrival_time": "16:40",
+          "platform": 1,
+          "destination": "Bengaluru City",
+          "destination_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "coaches": ["Engine", "GEN", "GEN", "GEN", "Ladies", "GEN"]
+        }
+      ]
+    },
+    {
+      "id": "DWR",
+      "name": "Dharwad (DWR)",
+      "name_kn": "ಧಾರವಾಡ",
+      "trains": [
+        {
+          "train_number": "16589",
+          "train_name": "Rani Chennamma Express",
+          "train_name_kn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "08:45",
+          "platform": 1,
+          "destination": "Kolhapur",
+          "destination_kn": "ಕೊಲ್ಹಾಪುರ",
+          "coaches": ["Engine", "GEN", "GEN", "Ladies", "S1", "S2", "S3", "B1", "B2", "A1", "Pantry"]
+        },
+        {
+          "train_number": "11036",
+          "train_name": "Sharavathi Express",
+          "train_name_kn": "ಶರಾವತಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "arrival_time": "13:20",
+          "platform": 2,
+          "destination": "Bengaluru City",
+          "destination_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "coaches": ["Engine", "H1", "A1", "B1", "B2", "S1", "S2", "S3", "GEN", "GEN", "Ladies", "Pantry"]
+        },
+        {
+          "train_number": "56282",
+          "train_name": "Dharwad Passenger",
+          "train_name_kn": "ಧಾರವಾಡ ಪ್ಯಾಸೆಂಜರ್",
+          "arrival_time": "17:00",
+          "platform": 1,
+          "destination": "Hubballi",
+          "destination_kn": "ಹುಬ್ಬಳ್ಳಿ",
+          "coaches": ["Engine", "GEN", "GEN", "GEN", "Ladies"]
+        }
+      ]
+    }
+  ]
+}

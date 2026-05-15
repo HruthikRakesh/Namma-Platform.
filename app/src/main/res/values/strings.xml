@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Namma Platform</string>
+    <string name="app_subtitle">ನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="select_station_hint">ನಿಲ್ದಾಣ ಆಯ್ಕೆ ಮಾಡಿ / Select Station</string>
+    <string name="next_trains_title">ಮುಂದಿನ 3 ರೈಲುಗಳು / Next 3 Trains</string>
+    <string name="coach_layout_title">ಕೋಚ್ ವಿನ್ಯಾಸ / Coach Layout</string>
+    <string name="speak_btn">📢 ಘೋಷಣೆ ಕೇಳಿ / Speak</string>
+    <string name="platform_label">Platform</string>
+    <string name="arrives_label">Arrives</string>
+    <string name="to_label">To</string>
+    <string name="no_station_msg">ದಯವಿಟ್ಟು ನಿಲ್ದಾಣ ಆಯ್ಕೆ ಮಾಡಿ\nPlease select a station above</string>
+    <string name="general_coach_position">General Coach Position</string>
+    <string name="tap_train_hint">ರೈಲು ಆಯ್ಕೆ ಮಾಡಿ / Tap a train to see coach layout</string>
+</resources>

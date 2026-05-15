@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- High-Contrast Blue/Yellow Theme -->
+    <color name="primary_blue">#0D47A1</color>
+    <color name="primary_blue_dark">#002171</color>
+    <color name="primary_blue_light">#5472D3</color>
+    <color name="accent_yellow">#FFD600</color>
+    <color name="accent_yellow_dark">#C7A500</color>
+    <color name="card_bg">#1565C0</color>
+    <color name="surface_dark">#0A2E6E</color>
+    <color name="divider">#3D6BB5</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_yellow">#FFD600</color>
+    <color name="text_light_blue">#90CAF9</color>
+
+    <!-- Coach Colors -->
+    <color name="coach_engine">#B71C1C</color>
+    <color name="coach_general">#1B5E20</color>
+    <color name="coach_sleeper">#E65100</color>
+    <color name="coach_ladies">#880E4F</color>
+    <color name="coach_ac">#006064</color>
+    <color name="coach_pantry">#4A148C</color>
+    <color name="coach_highlight">#FFD600</color>
+</resources>
