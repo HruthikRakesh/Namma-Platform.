@@ -22,26 +22,8 @@ Framework: Android SDK
 Voice Engine: Android TextToSpeech API
 Minimum SDK: Android 24+
 Target SDK: Android 36
-Project Structure 📂
-NammaPlatform/
-│
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/nammaplatform/
-│   │   │   │   └── MainActivity.kt
-│   │   │   ├── res/layout/
-│   │   │   │   └── activity_main.xml
-│   │   │   ├── res/drawable/
-│   │   │   ├── res/values/
-│   │   │   └── AndroidManifest.xml
-│
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
-Screenshots 📸
 
-Add your project screenshots here
+project screenshots here:
 
 Example:
 
